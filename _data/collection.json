@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Oral Histories and the Pocket Desert" ] },
+    "summary": { "en": [ "This project examines the Pocket Desert radio documentary to investigate the significance and relevance of oral histories in the Okanagan while identifying the importance of the region's unique climate and Indigenous epistemologies." ] },
+    "items": [
+    ]
+}
