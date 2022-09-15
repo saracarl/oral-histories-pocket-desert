@@ -69,6 +69,6 @@ Robinson, Dylan. _Hungry Listening: Resonant Theory for Indigenous Sound Studies
 
 Vowel, Chelsea. “Beyond Territorial Acknowledgements.” _Âpihtawikosisân_, 23 September 2016, https://apihtawikosisan.com/2016/09/beyond-territorial-acknowledgments/. 
 
----. Indigenous Writes: A Guide to First Nations, Métis, & Inuit Issues in Canada, Portage & Main Press, 2016.
+---. _Indigenous Writes: A Guide to First Nations, Métis, & Inuit Issues in Canada_, Portage & Main Press, 2016.
 
 Younging, Gregory. _Elements of Indigenous Style: A Guide for Writing By and About Indigenous Peoples_, Brush Education Inc., 2018.
