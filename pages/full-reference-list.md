@@ -60,6 +60,8 @@ Tuck, Eve, and K. Wayne Yang. “Decolonization is Not a Metaphor.” _Decoloniz
 
 Vowel, Chelsea. “Beyond Territorial Acknowledgements.”  _Âpihtawikosisân_, 23 September 2016, https://apihtawikosisan.com/2016/09/beyond-territorial-acknowledgments/. 
 
+---. _Indigenous Writes: A Guide to First Nations, Métis, & Inuit Issues in Canada_, Portage & Main Press, 2016.
+
 Wagner, John R. “Landscape Aesthetics, Water, and Settler Colonialism in the Okanagan Valley of British Columbia.” _Journal of Ecological Anthropology_, vol. 12, no, 1, 2008, pp 22-38. 
 
 “Welcome to ECOmmunity Place.” _En’owkin Centre_, En’owkin Centre, https://enowkincentre.ca/departments-ecommunity.html. 
