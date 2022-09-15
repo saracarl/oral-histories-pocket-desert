@@ -51,3 +51,24 @@ The focus on Syilx voices, accounts, knowledges, and oral histories in _The Pock
 (1) Some representations of the term “Syilx” use a lowercase ‘s’ rather than a capital. According to Syilx language holders, capitals are not typically used in Nsyilxcən words as capitalisation insinuates something or someone holds more importance over another, which does not align with Syilx ethics (Bonneau). The choice to capitalise “Syilx” (and “Nsyilxcən”) is informed by the presentation of the word seen most often by Syilx scholars and writers when conducting research for this project as well as recommendations and guidelines for writing about Indigenous Peoples and their identity, rights, and institutions (Vowel 9, Younging 77). Further, as I am a settler who is a non-Nsyilxcən speaker and cannot accurately represent or understand Syilx ethics, I believe it would be inappropriate and performative of me to follow these guidelines when I still have much to learn in regards to properly acting in accordance with them beyond representation of terms, language, and Syilx ethics.
 
 (2) The term “Nsyilxcən” is used throughout this project to refer to the oral language that is indigenous to the Syilx territory (Armstrong, _Constructing Indigeneity_ 74). While there are various spellings of Nsyilxcən, such as “_Nsyilxcn_” and “_nsyilxcin_”, I chose to use “Nsyilxcən” as it follows most of the spelling conventions used by Syilx authors such as Dr. Jeannette Armstrong. Because the term can also differ in use of capitalisation and italicisation, I referred to editorial approaches that capitalise proper nouns and adjectives used to describe or refer to Indigenous Peoples’ identity, rights, and institutions (Vowel 9, Younging 77) and only italicising words that are not in English unless they are commonly used and referred to in the English language by their non-English term (Younging 85-6). Because there is no English translation for Nsyilxcən and the spelling of Nsyilxcən itself has been adapted for the English ear, it may not qualify to be italicised under conventional style (86-7). The spelling, capitalisation, and non-italicised representation of this term may not be appropriate in some circumstances.
+
+## References
+Armstrong, Jeannette. _Constructing Indigeneity: Syilx Okanagan Oraliture and tmixʷ centrism_, University of Greifswald, 2009, https://d-nb.info/1027188737/34. 
+
+Bonneau, Athena. “Penticton Museum’s new exhibit honours syilx language keepers.” _IndigiNews_, 24 July 2021, https://indiginews.com/okanagan/penticton-museum-exhibit-honours-syilx-language-keepers. 
+
+Chapman, Owen, and Kim Sawchuck. “Research-Creation: Intervention, analysis, and ‘family resemblances’.” _Canadian Journal of Communication, Concordia University_, vol. 37, no. 1, 2012, pp. 5-26.
+
+Cornish, Gayle. _The Pocket Desert_ [documentary]. 1995. OSC_ARC_13-2_SR001. _The Pocket Desert_ fonds. University of British Columbia Okanagan Special Collections and Archives, Kelowna, British Columbia, Canada.
+
+Gahman, Levi and Gabrielle Legault. “Disrupting the Settler Colonial University: Decolonial Praxis and Place-Based Education in the Okanagan Valley (British Columbia).” _Capitalism Nature Socialism_, vol. 30, no. 1, 2019, pp. 50-69.
+
+Joseph, Bob, and Cynthia F. Joseph. _Indigenous Relations: Insights, Tips & Suggestions to Make Reconciliation a Reality_. Indigenous Relations Press, 2019.
+
+Robinson, Dylan. _Hungry Listening: Resonant Theory for Indigenous Sound Studies_, U of Minnesota Press, Minneapolis, 2020.
+
+Vowel, Chelsea. “Beyond Territorial Acknowledgements.” _Âpihtawikosisân_, 23 September 2016, https://apihtawikosisan.com/2016/09/beyond-territorial-acknowledgments/. 
+
+---. Indigenous Writes: A Guide to First Nations, Métis, & Inuit Issues in Canada, Portage & Main Press, 2016.
+
+Younging, Gregory. _Elements of Indigenous Style: A Guide for Writing By and About Indigenous Peoples_, Brush Education Inc., 2018.
