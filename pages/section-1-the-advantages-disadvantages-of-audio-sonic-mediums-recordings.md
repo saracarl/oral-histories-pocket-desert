@@ -20,7 +20,7 @@ The disconnection between a sound recording and its original contexts in _The Po
 
 ![DSC_0297 Medium](https://user-images.githubusercontent.com/107158915/190523783-addc33b3-46fc-4ba1-9c1e-3af5c16a6c37.jpeg)
 
-A north-facing view of Osoyoos, including orchards, roadways, mountains, and a light blanket of smoke coming from a wildfire further north near Keremeos. Photo taken August 6, 2022.
+Photo Description/Caption: A north-facing view of Osoyoos, including orchards, roadways, mountains, and a light blanket of smoke coming from a wildfire further north near Keremeos. Photo taken August 6, 2022.
 
 ## 1.4 - References
 Camlot, Jason. _Phonopoetics: The Making of Early Literary Recordings_. Stanford University Press, 2019.
