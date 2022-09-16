@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpickard01.github.io/oral-histories-pocket-desert/annotations/the-pocket-desert-radio-documentary-canvas-1-audio.json",
+  "type": "AnnotationPage",
+  "label": "Audio",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-radio-documentary-canvas-1-audio-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Annotation 1.2 - See annotation 1.1 and Section 1 for further demonstration and analysis.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/oral-histories-pocket-desert/the-pocket-desert-radio-documentary/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1399.0,1710.0"
+        }
+      }
+    }
+  ]
+}
