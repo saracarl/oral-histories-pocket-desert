@@ -1,0 +1,38 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://rpickard01.github.io/oral-histories-pocket-desert/the-pocket-desert-audio-recording/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "The Pocket Desert Audio Recording" ] },
+    "provider": [
+      {
+        "id": "https://library.ok.ubc.ca/spaces/special-collections-and-archives/",
+        "type": "Agent",
+        "label": { "en": [ "The University of British Columbia Okanagan Campus Library, Special Collections and Archives" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://rpickard01.github.io/oral-histories-pocket-desert/the-pocket-desert-audio-recording/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 3130.0,
+        "items": [
+          {
+            "id": "https://rpickard01.github.io/oral-histories-pocket-desert/the-pocket-desert-audio-recording/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://rpickard01.github.io/oral-histories-pocket-desert/the-pocket-desert-audio-recording/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://archive.org/details/thepocketdesert-osc-arc-13-2-sr-001",
+                    "duration": 3130.0
+                },
+                "target": "https://rpickard01.github.io/oral-histories-pocket-desert/the-pocket-desert-audio-recording/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
