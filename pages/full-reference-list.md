@@ -36,6 +36,8 @@ Lilomaiava-Doktor, Sa’iliemanu. “Oral Traditions, Cultural Significance of S
 
 “Okanagan Song.” _Westbank First Nation_, 2022, https://www.wfn.ca/okanagansong.htm, accessed 26 July 2022.
 
+Okanagan Special Collections and Archives. “The Pocket Desert fonds.” _Okanagan Special Collections and Archives_, University of British Columbia Okanagan, https://rbscarchives.library.ubc.ca/downloads/pocket-desert-fonds.pdf.
+
 Osoyoos Lake Water Quality Society. “History of Osoyoos Lake and Area.” _Osoyoos Lake Water Quality Society_, https://www.osoyooslake.ca/topics/lake-history/, accessed 22 June 2022.
 
 _Our Elder Stories: Sharing Our Métis Truths - One Story at a Time_, Our Elder Stories, https://ourelderstories.com, accessed 23 July 2022.
