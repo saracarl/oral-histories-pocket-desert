@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpickard01.github.io/oral-histories-pocket-desert/annotations/the-pocket-desert-audio-recording-canvas-1-audio.json",
+  "type": "AnnotationPage",
+  "label": "Audio",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-audio-recording-canvas-1-audio-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Annotation 1.1 - The audio of crickets in the background appears to ease the transition between Scudder’s segment to the next. Layers of sound begin to build as flute music (played by Herman Edward) is introduced and followed by Dr. Jeannette Armstrong’s reading of her poem. As Jason Camlot notes, “we, as humans, are time-sensitive listening creatures” (4). Each pause and change of pace in Armstrong’s reading of a poem is thus apparent if not striking, especially as the poem is not offered in a visual format that would allow listeners to anticipate the meter and pace and because it differs from the formal and conversational forms of speech heard thus far. Unlike the more formal explanations and descriptions heard throughout the documentary, the poetry provides a much more intimate view and understanding of the land and its relationship to the speaker. At the same time, the reading of the poetry differs from conversational speech by providing a steady pace that fluctuates with particular words or lines to emphasise their significance and meaning. The music and poetry created and provided by Syilx Okanagan People ultimately expand methods of communicating research about the Okanagan beyond the hegemonic and limiting capacities of traditional Western research presentation. Further, the music and poetry provide personal significance amongst segments of Western science-based oral accounts given by those such as Dr. Scudder. As explained on the Westbank First Nation website, the Syilx Okanagan People “had many songs that were sung for a variety of reasons” prior to colonisation, which were then “outlawed, stolen, misplaced and misused” following assimilation efforts (“Okanagan Song”). As demonstrated in The Pocket Desert, many of the songs continue to be sung today despite colonialism’s pernicious attempts at erasure. For further analysis and demonstration, see Section 1 and annotation 1.2.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/oral-histories-pocket-desert/the-pocket-desert-audio-recording/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "207.0,267.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-audio-recording-canvas-1-audio-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Annotation 1.2 - See annotation 1.1 and Section 1 for further demonstration and analysis.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/oral-histories-pocket-desert/the-pocket-desert-audio-recording/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1399.0,1710.0"
+        }
+      }
+    }
+  ]
+}

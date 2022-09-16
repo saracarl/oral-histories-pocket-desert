@@ -15,6 +15,32 @@
         "id": "https://rpickard01.github.io/oral-histories-pocket-desert/the-pocket-desert-audio-recording/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3130.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://rpickard01.github.io/oral-histories-pocket-desert/annotations/the-pocket-desert-audio-recording-canvas-1-oral-histories.json",
+            "label": "Oral Histories"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://rpickard01.github.io/oral-histories-pocket-desert/annotations/the-pocket-desert-audio-recording-canvas-1-syilx-relationships.json",
+            "label": "Syilx Relationships"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://rpickard01.github.io/oral-histories-pocket-desert/annotations/the-pocket-desert-audio-recording-canvas-1-audio.json",
+            "label": "Audio"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://rpickard01.github.io/oral-histories-pocket-desert/annotations/the-pocket-desert-audio-recording-canvas-1-ecology-climate-land.json",
+            "label": "Ecology/Climate/Land"
+          }
+        ],
         "items": [
           {
             "id": "https://rpickard01.github.io/oral-histories-pocket-desert/the-pocket-desert-audio-recording/canvas-1/paintings",

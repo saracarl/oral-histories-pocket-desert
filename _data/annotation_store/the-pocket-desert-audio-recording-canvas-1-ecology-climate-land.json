@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpickard01.github.io/oral-histories-pocket-desert/annotations/the-pocket-desert-audio-recording-canvas-1-ecology-climate-land.json",
+  "type": "AnnotationPage",
+  "label": "Ecology/Climate/Land",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-audio-recording-canvas-1-ecology-climate-land-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Annotation 2.1 - Scudder’s introductory segment highlights a number of underlying concerns that he and many of the other experts, Knowledge Keepers, and Elders delve into throughout the radio documentary. During the time The Pocket Desert radio documentary was being produced and first aired through CBC’s Ideas, the South Okanagan Conservation Strategy of 1990-1995 was set to be implemented to protect and conserve myriad plant and animal species and habitats (Hlady 1). Scudder affirms the South Okanagan Conservation Strategy’s concerns with the south Okanagan’s “rapid human settlement over the past few decades” that has “resulted in a major loss of the natural environment” when referring to the impacts of orchards, vineyards, and urban expansion (1). Today, the Okanagan remains one of the least protected areas in the settler-state of Canada. A 2019 report from the World Wildlife Fund revealed the Okanagan “scored poorly” in their assessment of ecological representation despite being “a species hotspot” that “contains areas that have high levels of forest biomass and climate refugees” (Wildlife Protection Assessment 8). As identified by Scudder and the Conservation Strategy in the 1990s, the World Wildlife Fund report states that “[e]xpanding human population, and related road and housing infrastructure, and agriculture development have added pressure to the region where many stressed species have already been extirpated” (8). For further analysis and demonstration, see Sections 2 and 3 and annotations 2.2, 2.3, and 3.3.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/oral-histories-pocket-desert/the-pocket-desert-audio-recording/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "136.0,204.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-audio-recording-canvas-1-ecology-climate-land-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Annotation 2.2 - See annotations 2.1, 2.3, 3.2, and 3.3 and Sections 2 and 3 for further demonstration and analysis.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/oral-histories-pocket-desert/the-pocket-desert-audio-recording/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1710.0,1753.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-audio-recording-canvas-1-ecology-climate-land-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Annotation 2.3 - See annotations 2.1, 2.2, and 3.3 and Sections 2 and 3 for further demonstration and analysis.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/oral-histories-pocket-desert/the-pocket-desert-audio-recording/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2401.0,2487.0"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpickard01.github.io/oral-histories-pocket-desert/annotations/the-pocket-desert-audio-recording-canvas-1-oral-histories.json",
+  "type": "AnnotationPage",
+  "label": "Oral Histories",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-audio-recording-canvas-1-oral-histories-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Annotation 4.1 - Lily Armstrong’s telling of the story of the white weasel woman in Nsyilxcən highlights several important considerations when examining the relevance of oral histories, storytelling and audio archives. Audio recordings have the ability to have “real-time” qualities that “opens a tunnel connection with the past” and appeal to our perception of time to create “an experience of real-time processing” (Camlot 3). Oral histories and oral storytelling also holds insurmountable significance to Indigenous nations and communities around the world, as a way of communicating Indigenous knowledge, culture, and epistemologies (Iseke 559). Along with their social paradigm and language, Syilx captikʷɬ (oral stories) strongly express how “Syilx knowledge can also be seen as a systems view” and allows for Syilx Traditional Ecological Knowledge to move continuously forward through each generation (Armstrong, “A Single Strand” 97). Due to colonialism, assimilation efforts, and land destruction, Indigenous languages and storytelling practices have been and continue to be threatened, thus making the practice of storytelling and speaking of Indigenous languages especially essential (Archibald 238). As Lily Armstrong’s telling of the story in Nsyilxcən is recorded, it both upholds and affirms the relationships and responsibilities between the Syilx Okanagan Peoples to their territory, lands, and resources while continuing to serve as a seemingly timeless and continuous bridge between the past and the present (Syilx Okanagan Nation Alliance). For further analysis and demonstration, see Sections 1, 3, and 4 and annotations 1.1, 3.1, and 4.2.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/oral-histories-pocket-desert/the-pocket-desert-audio-recording/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "517.0,701.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-audio-recording-canvas-1-oral-histories-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Annotation 4.2 - See annotations 1.1, 1.2, 3.1 and 4.1 and Sections 2, 3 and 4 for further demonstration and analysis.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/oral-histories-pocket-desert/the-pocket-desert-audio-recording/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2946.0,3130.0"
+        }
+      }
+    }
+  ]
+}

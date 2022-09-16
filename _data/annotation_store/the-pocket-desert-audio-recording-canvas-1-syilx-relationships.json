@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpickard01.github.io/oral-histories-pocket-desert/annotations/the-pocket-desert-audio-recording-canvas-1-syilx-relationships.json",
+  "type": "AnnotationPage",
+  "label": "Syilx Relationships",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-audio-recording-canvas-1-syilx-relationships-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Annotation 3.1 - Similar to the first annotation on the segment featuring Edward’s music and Armstrong’s poetry, this segment of the radio documentary is an example of what audio can present and bring to research and understanding as the sounds of the wind, buzzing of insects, and horse hooves on the earth brings viewers to the desert in a way. It also models how “Syilx ethics and governance are linked to land use and regenerative conservation of ecosystems” and that the “Syilx people’s ecological knowledge is the basis of everyday practice” (Armstrong, “A Single Strand” 95). As Elder Jane Stelkia explains the significance of the pictographs, the land emerges as a foundational part of Syilx culture and tradition, while also informing the interactions between Stelkia and Delphine Derickson. The Nsyilxcən word and concepts of tmixʷ (all living things) illustrates numerous strands “fanning outward from one source that is not visible (96-7). Syilx Traditional Ecological Knowledge, which is centred in the concept of tmixʷ, involves the understanding that the entire Syilx territory “is a living whole system that requires human compliance” and “a deep level of cooperation and solidarity among groups in the whole of the system” (97-8). Our relationships with each other thus reflect our relationships with the land and vice versa (Armstrong, “An Okanagan Worldview” 66-7). By actively including and engaging with Derickson in her explanation of the significance of the pictographs, Stelkia not only accounts for the significance of the land but models the tmixʷ-centred Syilx philosophy of egalitarianism. For further analysis and demonstration, see Sections 2, 3, and 4 and annotations 1.1, 2.2, 3.2, and 3.3.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/oral-histories-pocket-desert/the-pocket-desert-audio-recording/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "764.0,912.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-audio-recording-canvas-1-syilx-relationships-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Annotation 3.2 - See annotations 2.2, 3.1,and 3.3 and Sections 2, 3 and 4 for further demonstration and analysis.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/oral-histories-pocket-desert/the-pocket-desert-audio-recording/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1017.0,1094.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-audio-recording-canvas-1-syilx-relationships-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Annotation 3.3 - See annotations 2.1, 2.2, 2.3, 3.1, and 3.2 and Sections 2, 3 and 4 for further demonstration and analysis.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/oral-histories-pocket-desert/the-pocket-desert-audio-recording/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2072.0,2289.0"
+        }
+      }
+    }
+  ]
+}
