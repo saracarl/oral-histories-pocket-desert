@@ -69,6 +69,8 @@ Gahman, Levi and Gabrielle Legault. “Disrupting the Settler Colonial Universit
 
 Joseph, Bob, and Cynthia F. Joseph. _Indigenous Relations: Insights, Tips & Suggestions to Make Reconciliation a Reality_. Indigenous Relations Press, 2019.
 
+Okanagan Special Collections and Archives. “The Pocket Desert fonds.” _Okanagan Special Collections and Archives_, University of British Columbia Okanagan, https://rbscarchives.library.ubc.ca/downloads/pocket-desert-fonds.pdf.
+
 Robinson, Dylan. _Hungry Listening: Resonant Theory for Indigenous Sound Studies_, U of Minnesota Press, Minneapolis, 2020.
 
 Vowel, Chelsea. “Beyond Territorial Acknowledgements.” _Âpihtawikosisân_, 23 September 2016, https://apihtawikosisan.com/2016/09/beyond-territorial-acknowledgments/. 
