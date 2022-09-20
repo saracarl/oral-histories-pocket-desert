@@ -3,11 +3,19 @@
     "id": "https://rpickard01.github.io/oral-histories-pocket-desert/the-pocket-desert-audio-recording/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "The Pocket Desert Audio Recording" ] },
+    "homepage": [
+      {
+        "id": "https://rbscarchives.library.ubc.ca/pocket-desert-fonds",
+        "type": "Text",
+        "label": { "en": [ "The Pocket Desert Audio Recording" ] },
+        "format": "text/html"
+      }
+    ],
     "provider": [
       {
         "id": "https://library.ok.ubc.ca/spaces/special-collections-and-archives/",
         "type": "Agent",
-        "label": { "en": [ "The University of British Columbia Okanagan Campus Library, Special Collections and Archives" ] }
+        "label": { "en": [ "University of British Columbia Okanagan Campus Library Special Collections and Archives" ] }
       }
     ],
     "items": [
