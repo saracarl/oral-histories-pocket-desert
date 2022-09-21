@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpickard01.github.io/oral-histories-pocket-desert/annotations/the-pocket-desert-documentary-audio-recording-canvas-1-syilx-relationships.json",
+  "type": "AnnotationPage",
+  "label": "Syilx Relationships",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-documentary-audio-recording-canvas-1-syilx-relationships-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Annotation 3.2 - See annotations 2.2, 3.1,and 3.3 and Sections 2, 3 and 4 for further demonstration and analysis.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Syilx Relationships",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://rpickard01.github.io/oral-histories-pocket-desert/the-pocket-desert-documentary-audio-recording/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1017.0,1094.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-documentary-audio-recording-canvas-1-syilx-relationships-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Annotation 3.3 - See annotations 2.1, 2.2, 2.3, 3.1, and 3.2 and Sections 2, 3 and 4 for further demonstration and analysis.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Syilx Relationships",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://rpickard01.github.io/oral-histories-pocket-desert/the-pocket-desert-documentary-audio-recording/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2072.0,2289.0"
+        }
+      }
+    }
+  ]
+}
