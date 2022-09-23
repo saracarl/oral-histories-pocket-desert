@@ -15,7 +15,8 @@
       "body": {
         "type": "TextualBody",
         "value": "Annotation 3.2 - See annotations 2.2, 3.1,and 3.3 and Sections 2, 3 and 4 for further demonstration and analysis.",
-        "format": "text/plain"
+        "format": "text/plain",
+        "purpose": "commenting"
       },
       "target": {
         "source": "https://rpickard01.github.io/oral-histories-pocket-desert/audio-recording-of-the-pocket-desert/canvas-1/canvas",
@@ -36,7 +37,8 @@
       "body": {
         "type": "TextualBody",
         "value": "Annotation 3.3 - See annotations 2.1, 2.2, 2.3, 3.1, and 3.2 and Sections 2, 3 and 4 for further demonstration and analysis.",
-        "format": "text/plain"
+        "format": "text/plain",
+        "purpose": "commenting"
       },
       "target": {
         "source": "https://rpickard01.github.io/oral-histories-pocket-desert/audio-recording-of-the-pocket-desert/canvas-1/canvas",
