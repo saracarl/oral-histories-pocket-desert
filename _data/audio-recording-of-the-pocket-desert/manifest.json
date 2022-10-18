@@ -5,7 +5,7 @@
     "label": { "en": [ "Audio Recording of The Pocket Desert" ] },
     "homepage": [
       {
-        "id": "https://webcat.library.ubc.ca/vwebv/holdingsInfo?bibId=11947039",
+        "id": "https://rbscarchives.library.ubc.ca/pocket-desert-fonds",
         "type": "Text",
         "label": { "en": [ "Audio Recording of The Pocket Desert" ] },
         "format": "text/html"
@@ -15,7 +15,7 @@
       {
         "id": "https://library.ok.ubc.ca/spaces/special-collections-and-archives/",
         "type": "Agent",
-        "label": { "en": [ "University of British Columbia, Okanagan Campus Library, Okanagan Special Collections and Archives" ] }
+        "label": { "en": [ "University of British Columbia Okanagan Campus Library Special Collections and Archives" ] }
       }
     ],
     "items": [
@@ -60,7 +60,9 @@
                 "motivation": "painting",
                 "body": {
                   "id": "https://ia902505.us.archive.org/19/items/thepocketdesert-osc-arc-13-2-sr-001/OSC_ARC_13-2_SR001.mp3",
-                    "duration": 3130.0
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                  "duration": 3130.0
                 },
                 "target": "https://rpickard01.github.io/oral-histories-pocket-desert/audio-recording-of-the-pocket-desert/canvas-1/canvas"
               }

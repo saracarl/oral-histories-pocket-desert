@@ -27,25 +27,25 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://rpickard01.github.io/oral-histories-pocket-desert/annotations/the-pocket-desert-audio-recording-canvas-1-oral-histories.json",
+            "id": "https://rpickard01.github.io/oral-histories-pocket-desert/annotations/the-pocket-desert-audio-recording-canvas-1-the-pocket-desert-audio-recording-canvas-1-oral-histories.json",
             "label": "Oral Histories"
           }
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://rpickard01.github.io/oral-histories-pocket-desert/annotations/the-pocket-desert-audio-recording-canvas-1-syilx-relationships.json",
+            "id": "https://rpickard01.github.io/oral-histories-pocket-desert/annotations/the-pocket-desert-audio-recording-canvas-1-the-pocket-desert-audio-recording-canvas-1-syilx-relationships.json",
             "label": "Syilx Relationships"
           }
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://rpickard01.github.io/oral-histories-pocket-desert/annotations/the-pocket-desert-audio-recording-canvas-1-audio.json",
+            "id": "https://rpickard01.github.io/oral-histories-pocket-desert/annotations/the-pocket-desert-audio-recording-canvas-1-the-pocket-desert-audio-recording-canvas-1-audio.json",
             "label": "Audio"
           }
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://rpickard01.github.io/oral-histories-pocket-desert/annotations/the-pocket-desert-audio-recording-canvas-1-ecology-climate-land.json",
+            "id": "https://rpickard01.github.io/oral-histories-pocket-desert/annotations/the-pocket-desert-audio-recording-canvas-1-the-pocket-desert-audio-recording-canvas-1-ecology-climate-land.json",
             "label": "Ecology/Climate/Land"
           }
         ],
@@ -59,8 +59,10 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://ia902505.us.archive.org/19/items/thepocketdesert-osc-arc-13-2-sr-001/OSC_ARC_13-2_SR001.mp3",
-                    "duration": 3130.0
+                  "id": "https://ia802505.us.archive.org/19/items/thepocketdesert-osc-arc-13-2-sr-001/OSC_ARC_13-2_SR001.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                  "duration": 3130.0
                 },
                 "target": "https://rpickard01.github.io/oral-histories-pocket-desert/the-pocket-desert-audio-recording/canvas-1/canvas"
               }
