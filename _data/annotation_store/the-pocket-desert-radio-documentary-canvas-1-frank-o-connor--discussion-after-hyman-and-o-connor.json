@@ -1,0 +1,278 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://saracarl.github.io/oral-histories-pocket-desert/annotations/the-pocket-desert-radio-documentary-canvas-1-frank-o-connor--discussion-after-hyman-and-o-connor.json",
+  "type": "AnnotationPage",
+  "label": "Frank O'Connor, Discussion after Hyman and O'Connor",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-radio-documentary-canvas-1-frank-o-connor--discussion-after-hyman-and-o-connor-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Well, I'm in the--",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://saracarl.github.io/oral-histories-pocket-desert/the-pocket-desert-radio-documentary/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3627.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-radio-documentary-canvas-1-frank-o-connor--discussion-after-hyman-and-o-connor-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I'm in the unfortunate position that I can't quarrel with anybody, either. I'd love to do it. The nearest thing I can get to a quarrel is with Mr. West on the subject of Kafka. I entirely agree that this thing needs discussion, whether we have time to discuss it or not is another matter.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://saracarl.github.io/oral-histories-pocket-desert/the-pocket-desert-radio-documentary/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3630.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-radio-documentary-canvas-1-frank-o-connor--discussion-after-hyman-and-o-connor-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " The point is The Trial, Kafka's Trial has nothing at all to do with life under the Austro-Hungarian empire.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://saracarl.github.io/oral-histories-pocket-desert/the-pocket-desert-radio-documentary/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3655.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-radio-documentary-canvas-1-frank-o-connor--discussion-after-hyman-and-o-connor-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Kafka's two great novels, The Castle and The Trial are the modern equivalent of the Pilgrim's Progress-- they're allegories. And they're allegories written in Freudian terms. I don't particularly like Freud, and I don't particularly admire this as a technique, but there it is, on they're two wonderful books. And we ought to realize that they are dealing with man's destiny. And just man in face of eternity.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://saracarl.github.io/oral-histories-pocket-desert/the-pocket-desert-radio-documentary/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3668.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-radio-documentary-canvas-1-frank-o-connor--discussion-after-hyman-and-o-connor-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And beyond that, I haven't much to quarrel with. I think I gathered a reference to Mr. James Gould Cozzens novel, after which I picked up the words joyful, expansive, moving. Was I dreaming?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://saracarl.github.io/oral-histories-pocket-desert/the-pocket-desert-radio-documentary/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3700.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-radio-documentary-canvas-1-frank-o-connor--discussion-after-hyman-and-o-connor-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Now, as well as that, Mr. West thinks I've exaggerated the subjective element in Proust's work. Actually, I minimized it all along the line of Proust's theory that the reality is in the subject, not in the object, is derived from the Bergsonian philosophy. And you get it all over the book.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://saracarl.github.io/oral-histories-pocket-desert/the-pocket-desert-radio-documentary/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3719.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-radio-documentary-canvas-1-frank-o-connor--discussion-after-hyman-and-o-connor-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And he devotes a whole novel, Le Temps Retrouve, to proving that a objective reality doesn't exist. The only reality which is apprehensive is whatever happens to remain in the unconscious mind after an event has occurred, which is, in itself, inapprehensible and indescribable.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://saracarl.github.io/oral-histories-pocket-desert/the-pocket-desert-radio-documentary/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3752.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-radio-documentary-canvas-1-frank-o-connor--discussion-after-hyman-and-o-connor-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I don't know that there's very much one can say about this question. But the general attack on Bergson is on that level, that he makes no distinction between the subject and the object. And it's not very easy to say with Proust whether he really says, there is an objective reality or not. You can quote occasional passages from Proust which seemed to suggest that he admitted the existence of a reality, though he maintained you could make no statement of value about it.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://saracarl.github.io/oral-histories-pocket-desert/the-pocket-desert-radio-documentary/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3781.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-radio-documentary-canvas-1-frank-o-connor--discussion-after-hyman-and-o-connor-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " On the other hand, you can quote innumerable passages from Proust which go to show that there is no reality in the object, whatever.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://saracarl.github.io/oral-histories-pocket-desert/the-pocket-desert-radio-documentary/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3814.0"
+        }
+      }
+    }
+  ]
+}

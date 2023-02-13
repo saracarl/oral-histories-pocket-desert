@@ -1,0 +1,98 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://saracarl.github.io/oral-histories-pocket-desert/annotations/the-pocket-desert-radio-documentary-canvas-1-carver-collins--response-to-hyman-and-o-connor.json",
+  "type": "AnnotationPage",
+  "label": "Carver Collins, Response to Hyman and O'Connor",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-radio-documentary-canvas-1-carver-collins--response-to-hyman-and-o-connor-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I suggest that before going ahead with the commentary on these talks and discussion of them, everyone feel he has the right for about 40 seconds to stand up and stretch, it seems to me.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Carver Collins",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://saracarl.github.io/oral-histories-pocket-desert/the-pocket-desert-radio-documentary/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1363.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-radio-documentary-canvas-1-carver-collins--response-to-hyman-and-o-connor-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I think we'd better get on with the business of the evening.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Carver Collins",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://saracarl.github.io/oral-histories-pocket-desert/the-pocket-desert-radio-documentary/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1446.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-pocket-desert-radio-documentary-canvas-1-carver-collins--response-to-hyman-and-o-connor-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " The commentator on these speeches is himself a novelist and a critic, and needs no further introduction-- Mr. Anthony West.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Carver Collins",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://saracarl.github.io/oral-histories-pocket-desert/the-pocket-desert-radio-documentary/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1475.0"
+        }
+      }
+    }
+  ]
+}
