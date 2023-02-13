@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://saracarl.github.io/oral-histories-pocket-desert/annotations/comma-test-canvas-1-audience--lecture---the-modern-novel-.json",
+  "type": "AnnotationPage",
+  "label": "Audience, Lecture: \"The Modern Novel\"",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "comma-test-canvas-1-audience--lecture---the-modern-novel--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " APPLAUSE",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://saracarl.github.io/oral-histories-pocket-desert/comma-test/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1333.0"
+        }
+      }
+    }
+  ]
+}

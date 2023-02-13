@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://saracarl.github.io/oral-histories-pocket-desert/annotations/comma-test-canvas-1-frank-o-connor--lecture---the-modern-novel---program.json",
+  "type": "AnnotationPage",
+  "label": "Frank O'Connor, Lecture: \"The Modern Novel\", Program",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "comma-test-canvas-1-frank-o-connor--lecture---the-modern-novel---program-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Frank O'Connor, Lecture: \"The Modern Novel\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Program",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://saracarl.github.io/oral-histories-pocket-desert/comma-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,1333.0"
+        }
+      }
+    }
+  ]
+}

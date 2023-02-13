@@ -23,6 +23,112 @@
         "id": "https://saracarl.github.io/oral-histories-pocket-desert/comma-test/canvas-1/canvas",
         "type": "Canvas",
         "duration": 269.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/oral-histories-pocket-desert/annotations/comma-test-canvas-1-carver-collins--response-to-hyman-and-o-connor.json",
+            "label": {
+              "none": ["Carver Collins, Response to Hyman and O'Connor"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/oral-histories-pocket-desert/annotations/comma-test-canvas-1-frank-o-connor--lecture---the-modern-novel---program.json",
+            "label": {
+              "none": ["Frank O'Connor, Lecture: \"The Modern Novel\", Program"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/oral-histories-pocket-desert/annotations/comma-test-canvas-1-wgbh-radio-announcement.json",
+            "label": {
+              "none": ["WGBH Radio Announcement"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/oral-histories-pocket-desert/annotations/comma-test-canvas-1-carver-collins--discussion-after-hyman-and-o-connor.json",
+            "label": {
+              "none": ["Carver Collins, Discussion after Hyman and O'Connor"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/oral-histories-pocket-desert/annotations/comma-test-canvas-1-program--response-to-hyman-and-o-connor.json",
+            "label": {
+              "none": ["Program, Response to Hyman and O'Connor"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/oral-histories-pocket-desert/annotations/comma-test-canvas-1-response-to-hyman-and-o-connor--anthony-west.json",
+            "label": {
+              "none": ["Response to Hyman and O'Connor, Anthony West"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/oral-histories-pocket-desert/annotations/comma-test-canvas-1-frank-o-connor--lecture---the-modern-novel-.json",
+            "label": {
+              "none": ["Frank O'Connor, Lecture: \"The Modern Novel\""]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/oral-histories-pocket-desert/annotations/comma-test-canvas-1-audience--discussion-after-hyman-and-o-connor.json",
+            "label": {
+              "none": ["Audience, Discussion after Hyman and O'Connor"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/oral-histories-pocket-desert/annotations/comma-test-canvas-1-audience--response-to-hyman-and-o-connor.json",
+            "label": {
+              "none": ["Audience, Response to Hyman and O'Connor"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/oral-histories-pocket-desert/annotations/comma-test-canvas-1-frank-o-connor--discussion-after-hyman-and-o-connor.json",
+            "label": {
+              "none": ["Frank O'Connor, Discussion after Hyman and O'Connor"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/oral-histories-pocket-desert/annotations/comma-test-canvas-1-audience--lecture---the-modern-novel-.json",
+            "label": {
+              "none": ["Audience, Lecture: \"The Modern Novel\""]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/oral-histories-pocket-desert/annotations/comma-test-canvas-1-program--discussion-after-hyman-and-o-connor.json",
+            "label": {
+              "none": ["Program, Discussion after Hyman and O'Connor"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/oral-histories-pocket-desert/annotations/comma-test-canvas-1-stanley-hyman--discussion-after-hyman-and-o-connor.json",
+            "label": {
+              "none": ["Stanley Hyman, Discussion after Hyman and O'Connor"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://saracarl.github.io/oral-histories-pocket-desert/comma-test/canvas-1/paintings",

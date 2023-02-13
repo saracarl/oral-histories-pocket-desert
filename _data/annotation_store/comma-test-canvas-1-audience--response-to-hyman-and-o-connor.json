@@ -1,0 +1,98 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://saracarl.github.io/oral-histories-pocket-desert/annotations/comma-test-canvas-1-audience--response-to-hyman-and-o-connor.json",
+  "type": "AnnotationPage",
+  "label": "Audience, Response to Hyman and O'Connor",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "comma-test-canvas-1-audience--response-to-hyman-and-o-connor-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " APPLAUSE",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://saracarl.github.io/oral-histories-pocket-desert/comma-test/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1487.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "comma-test-canvas-1-audience--response-to-hyman-and-o-connor-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " LAUGHTER",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://saracarl.github.io/oral-histories-pocket-desert/comma-test/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3300.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "comma-test-canvas-1-audience--response-to-hyman-and-o-connor-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " APPLAUSE",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://saracarl.github.io/oral-histories-pocket-desert/comma-test/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3399.0"
+        }
+      }
+    }
+  ]
+}
